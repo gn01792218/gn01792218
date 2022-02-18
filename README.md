@@ -1,4 +1,4 @@
-### Hi there 👋I’m a Front-end engineer![alt front-end](https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-engineer-business-model-canvas-wanicon-flat-wanicon.png)
+### Hi there 👋I’m a Front-end engineer![alt front-end](https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-engineer-business-model-canvas-wanicon-flat-wanicon.png)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gn01792218&layout=compact)](https://github.com/gn01792218/github-readme-stats)
 
 
 -![alt code](https://img.icons8.com/cotton/64/000000/code.png)Programming language : ![alt java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)java、![alt javascript](https://img.icons8.com/color/48/000000/javascript--v1.png)javascript、<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" width="30px" height="30px">typscript<br><br>
@@ -7,6 +7,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gn01792218&show_icons=true&theme=radical)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gn01792218&layout=compact)](https://github.com/gn01792218/github-readme-stats)
+
 
 
