@@ -5,7 +5,8 @@
 -![alt framwork](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-framework-agile-flaticons-flat-flat-icons-2.png)Front-end framework : ![alt vue.js](https://img.icons8.com/color/48/000000/vue-js.png) vue2、3<br><br>
 -![alt UI](https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-ui-microservices-soft-fill-soft-fill-juicy-fish.png)UI feamework : ![alt bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)Bootstrap4、5  ![alt scss](https://img.icons8.com/color/48/000000/sass-avatar.png)SCSS<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gn01792218&layout=compact)](https://github.com/gn01792218/github-readme-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gn01792218&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gn01792218&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gn01792218&layout=compact)](https://github.com/gn01792218/github-readme-stats)
 
 
