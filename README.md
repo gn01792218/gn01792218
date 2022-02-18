@@ -7,4 +7,6 @@ I’m a Front-end engineer![alt front-end](https://img.icons8.com/external-wanic
 -![alt UI](https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-ui-microservices-soft-fill-soft-fill-juicy-fish.png)UI feamework : ![alt bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)Bootstrap4、5  ![alt scss](https://img.icons8.com/color/48/000000/sass-avatar.png)SCSS<br><br>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
