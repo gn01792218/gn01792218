@@ -2,12 +2,9 @@
 I’m a Front-end engineer
 
 
-- 🌱  
--Front-end framework Front-end ![alt vue3+ts](https://zh.wikipedia.org/wiki/Vue.js#/media/File:Vue.js_Logo_2.svg)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Programming language : javascript、typscript
+-Front-end framework : ![alt vue.js](https://img.icons8.com/color/48/000000/vue-js.png) vue2、3
+-UI feamework : Bootstrap4、5
+
 
 
